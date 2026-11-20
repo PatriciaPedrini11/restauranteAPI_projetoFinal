@@ -1,0 +1,17 @@
+com\restauranteAPI\restauranteAPI\exception\GlobalExceptionHandler.class
+com\restauranteAPI\restauranteAPI\model\Prato.class
+com\restauranteAPI\restauranteAPI\repository\ItemPedidoRepository.class
+com\restauranteAPI\restauranteAPI\RestauranteApiApplication.class
+com\restauranteAPI\restauranteAPI\model\Categoria.class
+com\restauranteAPI\restauranteAPI\config\SwaggerConfig.class
+com\restauranteAPI\restauranteAPI\exception\BusinessRuleException.class
+com\restauranteAPI\restauranteAPI\model\ItemPedido.class
+com\restauranteAPI\restauranteAPI\exception\ApiError.class
+com\restauranteAPI\restauranteAPI\exception\ResourceNotFoundException.class
+com\restauranteAPI\restauranteAPI\model\Pedido$StatusPedido.class
+com\restauranteAPI\restauranteAPI\model\Pedido.class
+com\restauranteAPI\restauranteAPI\repository\CategoriaRepository.class
+com\restauranteAPI\restauranteAPI\controller\RestauranteController.class
+com\restauranteAPI\restauranteAPI\repository\PedidoRepository.class
+com\restauranteAPI\restauranteAPI\repository\PratoRepository.class
+com\restauranteAPI\restauranteAPI\service\RestauranteService.class
